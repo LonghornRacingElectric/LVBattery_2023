@@ -414,6 +414,14 @@
     [
       "5ac7782d-8bcc-4265-8cba-9ab7b0c4fb6e",
       ""
+    ],
+    [
+      "b39d5c12-3592-4a18-8329-8f287d4c3b5d",
+      "Microcontroller"
+    ],
+    [
+      "29c95ac3-55e6-430d-a0f8-6b916fcd1965",
+      "LV BMS (BQ76930)"
     ]
   ],
   "text_variables": {}
